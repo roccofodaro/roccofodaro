@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Rocco 👋
 
-<!--
-**roccofodaro/roccofodaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><em>Software Developer and Student of Industrial Engeneering<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-Here are some ideas to get you started:
+```javascript
+const aboutMe = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Node, Github, Express, Sequelize, Heroku],
+  database: [MySQL],
+}
+```
+- 📫 How to reach me: https://www.linkedin.com/in/roccofodaro/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left"> Thanks for reading! 🧡</h3>

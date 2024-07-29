@@ -1,6 +1,6 @@
 ### Hi there, I'm Rocco 👋
 
-<p><em>Software Developer and Student of Industrial Engeneering<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Developer and Physics Student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ```javascript

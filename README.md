@@ -5,10 +5,11 @@
 
 ```javascript
 const aboutMe = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Node, Github, Express, Sequelize, Heroku],
+  code: [Python, Javascript, HTML, CSS],
+  tools: [Networkx, React, Node, Github, Express, Sequelize, Heroku],
   database: [MySQL],
+  band: 'Patricio Rey',
+  team: 'BOCAAA'
 }
 ```
 - 📫 How to reach me: https://www.linkedin.com/in/roccofodaro/
